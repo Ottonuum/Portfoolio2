@@ -1,5 +1,7 @@
+'use client'
 import { Main } from 'next/document';
 import Image from 'next/image'
+import HeroSection from '@/app/components/HeroSection'
 
 export default function Home() {
   return (
